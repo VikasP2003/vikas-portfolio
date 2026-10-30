@@ -4,7 +4,7 @@
 - Node.js 18+ (recommended)
 - npm
 
-## Run locally
+## Run locall
 ```bash
 npm install
 npm run dev
