@@ -1,30 +1,89 @@
-# Vikas Patil — React + Vite Portfolio
 
-## Requirements
-- Node.js 18+ (recommended)
-- npm
+# Vikas Patil | Data Analyst Portfolio
 
-## Run locall
-```bash
-npm install
-npm run dev
-```
-Open the local URL printed by Vite (usually http://localhost:5173).
+Welcome to my personal portfolio! I am a Data Analyst with experience in Power BI, data analysis, dashboard development, and reporting.
 
-## Production build
+🌐 **Live Portfolio:** https://vikas-portfolio-v2.netlify.app/
+
+## About Me
+
+I enjoy transforming raw data into meaningful insights through interactive dashboards and data visualization. I am passionate about learning new technologies and solving business problems using data.
+
+## Tech Stack
+
+- **Frontend:** React.js, JavaScript
+- **Build Tool:** Vite
+- **Styling:** HTML5, CSS3
+- **Data Analytics:** Power BI, DAX, Power Query, SQL, Excel
+- **Programming:** Python basics
+- **Tools:** Git, GitHub, Netlify
+
+## Features
+
+- Responsive portfolio design
+- Professional introduction and skills
+- Work experience and certifications
+- Featured analytics projects
+- GitHub project links
+- Dashboard PDF previews
+- Contact and social media links
+
+## Featured Projects
+
+| Project | Technology |
+|---|---|
+| HR Talent Analytics Dashboard | Power BI |
+| PR to PO Procurement Dashboard | Power BI |
+| IPL Analysis Dashboard | Power BI |
+
+## Run Locally
+
+**Prerequisites:** Node.js 18+ and npm.
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/VikasP2003/vikas-portfolio.git
+   ```
+
+2. Navigate to the project:
+
+   ```bash
+   cd vikas-portfolio
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+Open http://localhost:5173 in your browser.
+
+## Build
+
 ```bash
 npm run build
-npm run preview
 ```
 
-## Customize your details
-Edit `src/data/portfolio.js` to update your email, summary, skills, experience, projects and education.
+The production build is generated in the `dist` folder.
 
-## Add your profile photo
-Place your image at `public/profile.jpg`. The current hero uses a VP initials avatar; you can replace it with an `<img>` in `src/components/Hero.jsx`.
+## Deployment
 
-## Deploy
-Run `npm run build`, then deploy the generated `dist` folder to Netlify or Vercel.
+This portfolio is hosted on **Netlify** and deployed from GitHub.
 
-## Important
-Review the dates, job title, email address and every experience bullet in `src/data/portfolio.js` before publishing. Keep only statements that accurately reflect your experience.
+- Build command: `npm run build`
+- Publish directory: `dist`
+- Branch: `main`
+
+## Connect With Me
+
+- **GitHub:** https://github.com/VikasP2003
+- **LinkedIn:** https://www.linkedin.com/in/vikas-patil-3b3ab22a3/
+- **Portfolio:** https://vikas-portfolio-v2.netlify.app/
